@@ -1,0 +1,19 @@
+body{
+    background:#fff;
+    margin: 0;
+}
+
+a{
+    font-weight: bold; 
+} 
+.article{
+    background:grey;
+}
+.aside{
+    background: grey
+}
+.footer{
+    background: red;
+    margin-top: 10px;
+    ;
+}
