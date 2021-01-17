@@ -11,8 +11,8 @@ session_start();
 </head>
 
 <body>
-    <form class="box" action="" method="post" name="login">
-        <input type="text" class="box-input" name="username" placeholder="Nom d'utilisateur">
+    <form>
+        <input type="text" class="box-input" name="text" placeholder="Nom">
         <input type="text" class="box-input" name="text" placeholder="Prénom">
         <input type="submit" value="Connexion " name="submit" class="box-button">
     </form>

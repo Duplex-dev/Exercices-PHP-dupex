@@ -11,7 +11,7 @@ session_start();
 </head>
 
 <body>
-    <p> salut, mon nom c'est <?php echo $_SESSION['nom'] ?> et mon prénom c'est <?php echo $_SESSION['prenom'] ?>
+    <p>Bienvenue <?php echo $_SESSION['nom'] ?> <?php echo $_SESSION['prenom'] ?>
     </p>
 </body>
 
